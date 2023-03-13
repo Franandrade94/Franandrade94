@@ -33,6 +33,6 @@ Tambien tengo conocimientos de Illustrator para el diseño visual de material.
 
 ## No dudes en contactarte conmigo!
 
-Cel: +5491156073772
+Cel: +54 9 1156073772
 mail: franandrade@gmail.com
 LinkedIn: https://www.linkedin.com/in/andrade-francisco94/

@@ -6,7 +6,7 @@ Franandrade94 en github.
 
 Soy un Programador Fullstack orientado al diseño Front-end y creación de material visual.
 
-Siempre me ha intrigado el mundo de la programación, pero nunca me habia animado a dar el salto, hasta que post-pandemia empece a incursionar en este mundo en cursos de Python.
+Siempre me ha intrigado el mundo de la programación, pero nunca me habia animado a dar el salto, hasta que post-pandemia empece a incursionar en este mundo en cursos de Python y desarrollo web con HTML, CSS y JS.
 
 ## Qué Hago?
 

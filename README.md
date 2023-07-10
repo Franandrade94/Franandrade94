@@ -1,22 +1,22 @@
-# Hola! Soy Fran Andrade
+# Hello! I'm Fran Andrade.
 
-Franandrade94 en github.
+Franandrade94 on GitHub.
 
-## Quien soy?
+## Who am I?
 
-Soy un Programador Fullstack orientado al diseño Front-end y creación de material visual.
+I am a Fullstack programmer with a focus on Front-end design and visual content creation.
 
-Siempre me ha intrigado el mundo de la programación, pero nunca me habia animado a dar el salto, hasta que post-pandemia empece a incursionar en este mundo en cursos de Python y desarrollo web con HTML, CSS y JS.
+I have always been intrigued by the world of programming, but I never had the courage to take the leap until I started exploring this field through Python courses and web development with HTML, CSS, and JS after the pandemic.
 
-## Qué Hago?
+## What do I do?
 
 Termine recientemente el Bootcamp de FullStack Developer en Henry, y me dedico a realizar proyectos que me permitan avanzar  y crecer en mi formación como programador.
 
-## Que tecnologías uso?
+## What technologies do I use?
 
-El Bootcapm de Henry me permitió adquirir el conocimiento y la experiencia para poder entrar e ir creciendo en este mundo de la programación.
+The Henry Bootcamp provided me with the knowledge and experience to enter and grow in the programming world.
 
-Las principales tecnologías que manejo son:
+The main technologies I work with are:
 
   - HTML
   - CSS
@@ -29,10 +29,10 @@ Las principales tecnologías que manejo son:
   - Sequelize
   - GIT
 
-Tambien tengo conocimientos de Illustrator para el diseño visual de material.
+I also have knowledge of Illustrator for visual design purposes.
 
-## No dudes en contactarte conmigo!
+## Feel free to contact me!
 
-Cel: +54 9 1156073772
-mail: franandrade@gmail.com
+Phone: +54 9 1156073772
+Email: franandrade@gmail.com
 LinkedIn: https://www.linkedin.com/in/andrade-francisco94/
